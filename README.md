@@ -11,8 +11,8 @@ Welcome to the Stealthburner-VolcoMosq-Mod repository! This repository contains 
 - Optimized for the Voron 0.2 3D printer
 - Fully modular design for easy maintenance and upgrades
 - Comprehensive documentation and support
-- 
-- ![Stealthburner-VolcoMosq-Mod](./images/Hotend2.jpg)
+ 
+![Stealthburner-VolcoMosq-Mod](./images/Hotend2.jpg)
 
 ## Getting Started
 
