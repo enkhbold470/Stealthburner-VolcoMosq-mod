@@ -2,7 +2,7 @@
 
 Welcome to the Stealthburner-VolcoMosq-Mod repository! This repository contains the custom-designed version of the Voron 0.2 3D printer's head, specifically tailored for enhanced performance and stealthy operation. With this modification, you'll be able to print faster, quieter, and with better precision.
 
-![Hotend1](./images/Hotend1.jpg)
+![Hotend1](https://github.com/enkhbold470/Stealthburner-VolcoMosq-mod/blob/main/images/Hotend1.JPG)
 
 ## Features
 
@@ -12,7 +12,7 @@ Welcome to the Stealthburner-VolcoMosq-Mod repository! This repository contains 
 - Fully modular design for easy maintenance and upgrades
 - Comprehensive documentation and support
  
-![Hotend2](./images/Hotend2.jpg)
+![Hotend2](https://github.com/enkhbold470/Stealthburner-VolcoMosq-mod/blob/main/images/Hotend2.JPG)
 
 ## Getting Started
 
